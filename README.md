@@ -1,11 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/spatakal-banner.gif" alt="Spatakal Banner" width="100%">
-</p>
-
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E67E22&center=true&vCenter=true&width=900&lines=🚀+Empowering+Ideas%2C+Building+Futures;💻+Software+%7C+🌐+Web+%7C+📱+Apps+%7C+🎨+Design;Spatakal+%3A+Code.+Create.+Conquer." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E67E22&center=true&vCenter=true&width=900&lines=🚀+Empowering+Ideas%2C+Building+Futures;💻+Software+%7C+🌐+Web+%7C+📱+Apps+%7C+🎨+Design;Spatakal+%3A+Code.+Create.+Conquer." alt="Typing Animation">
 </p>
 
 ---
@@ -37,8 +32,8 @@ We are an **innovation-driven company** crafting impactful solutions in:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=spatakal&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=spatakal&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
