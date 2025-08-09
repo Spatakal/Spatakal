@@ -39,9 +39,8 @@ We are an **innovation-driven company** crafting impactful solutions in:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=spatakal&theme=tokyonight" alt="GitHub Streak" />
 
-### 📌 Project: Tornado
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spatakal&repo=Tornado&theme=tokyonight" alt="Tornado Repo" />
-
+### 📌 Project: GP
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Spatakal&repo=Gp_project&theme=tokyonight" alt="GP Project" />
 </td>
 <td width="50%" align="center">
 
