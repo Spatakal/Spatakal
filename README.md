@@ -31,10 +31,30 @@ We are an **innovation-driven company** crafting impactful solutions in:
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<table>
+<tr>
+<td width="50%" align="left">
+
 <img src="https://github-readme-stats.vercel.app/api?username=spatakal&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=spatakal&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
+### 📌 Project: Tornado
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spatakal&repo=Tornado&theme=tokyonight" alt="Tornado Repo" />
+
+</td>
+<td width="50%" align="center">
+
+## 🚀 Our Spirit  
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder at Work" width="90%">  
+
+**"Every project we build is a step closer to innovation."**  
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
