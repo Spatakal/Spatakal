@@ -39,9 +39,16 @@ We are an **innovation-driven company** crafting impactful solutions in:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=spatakal&theme=tokyonight" alt="GitHub Streak" />
 
-### 📌 Project: GP
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Spatakal&repo=Gp_project&theme=tokyonight&show_owner=true" alt="GP Project" />
-</td>
+## 🚀🔥 Daily Contribution Streak
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Consistency+is+the+Key!;Every+day+counts+💻;Keep+the+streak+alive!+🔥" alt="Motivational Typing Effect" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Spatakal&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
 <td width="50%" align="center">
 
 ## 🚀 Our Spirit  
