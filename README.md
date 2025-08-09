@@ -68,9 +68,9 @@ We are an **innovation-driven company** crafting impactful solutions in:
 ## 📫 Connect With Us
 <p align="center">
   <a href="https://spatakal.com"><img src="https://img.shields.io/badge/🌐%20Website-2C3E50?style=for-the-badge" /></a>
-  <a href="mailto:contact@spatakal.com"><img src="https://img.shields.io/badge/✉️%20Email-E67E22?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" /></a>
+  <a href="mailto:spatakaltech@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-E67E22?style=for-the-badge" /></a>
+  <a href="www.linkedin.com/in/hareesh-r-480772350"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://youtube.com/@spatakaltech?si=xg4maF_-w6zgP_gx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 ---
