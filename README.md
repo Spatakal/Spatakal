@@ -46,8 +46,9 @@ We are an **innovation-driven company** crafting impactful solutions in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Spatakal&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spatakal&theme=github-compact&bg_color=0d0d0d&color=FF10F0&line=00F5FF&point=FFD700&area=true&area_color=ff10f020&hide_border=true" alt="Contribution Graph" />
 </p>
+
 
 <td width="50%" align="center">
 
